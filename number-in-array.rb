@@ -1,6 +1,7 @@
 arr = [1,3,5,7,9,11]
-puts "Enter a number"
-num = gets.to_i
+num = 3
+# puts "Enter a number"
+# num = gets.to_i
 text = "number not in array"
 
 for i in 0..6
